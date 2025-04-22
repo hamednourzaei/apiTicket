@@ -1,23 +1,23 @@
-[{
-    "id":1,
+[
+  {
+    "id": 1,
     "companyTitle": "شرکت تعاونی شماره ۱۲ ترمینال جنوب",
     "price": 639000,
     "vipText": "vip همراه با شارژ اختصاصی",
     "origin": {
       "city": "مشهد",
-      "time": "۱۹:۹۰",
+      "time": "۱۹:۳۰",
       "date": "30 فروردین"
     },
     "destination": {
       "city": "پایانه جنوب",
       "time": "۰۵:۰۳",
       "date": "۱۴۰۴/۰۲/۱۶"
-    }
-,
-    "availableSeats": 22 
+    },
+    "availableSeats": 22
   },
   {
-    "id":2,
+    "id": 2,
     "companyTitle": "شرکت تعاونی شماره ۱۲ ترمینال جنوب",
     "price": 664000,
     "vipText": "vip همراه با شارژ اختصاصی",
@@ -31,10 +31,10 @@
       "time": "۰۵:۳۰",
       "date": "۱۴۰۴/۰۲/۱۶"
     },
-    "availableSeats": 33  
+    "availableSeats": 33
   },
-{
-    "id":3,
+  {
+    "id": 3,
     "companyTitle": "شرکت تعاونی شماره ۱۲ ترمینال جنوب",
     "price": 769000,
     "vipText": "vip همراه با شارژ اختصاصی",
@@ -47,11 +47,11 @@
       "city": "پایانه جنوب",
       "time": "۰۵:۵۵",
       "date": "۱۴۰۴/۰۲/۱۶"
-    }
-,
-    "availableSeats": 40 
-  },{
-    "id":4,
+    },
+    "availableSeats": 40
+  },
+  {
+    "id": 4,
     "companyTitle": "شرکت تعاونی شماره ۱۲ ترمینال جنوب",
     "price": 66900,
     "vipText": "vip همراه با شارژ اختصاصی",
@@ -64,12 +64,11 @@
       "city": "پایانه جنوب",
       "time": "۰۵:۰۵",
       "date": "۱۴۰۴/۰۲/۱۶"
-    }
-,
-    "availableSeats": 5  
+    },
+    "availableSeats": 5
   },
-{
-    "id":5,
+  {
+    "id": 5,
     "companyTitle": "شرکت تعاونی شماره ۱۲ ترمینال جنوب",
     "price": 69000,
     "vipText": "vip همراه با شارژ اختصاصی",
@@ -80,14 +79,11 @@
     },
     "destination": {
       "city": "پایانه جنوب",
-      "time": "۰۵:۹۰",
+      "time": "۰۵:۴۵",
       "date": "۱۴۰۴/۰۲/۱۶"
-    }
-,
-    "availableSeats": 29  
-  }
-,
-[
+    },
+    "availableSeats": 29
+  },
   {
     "id": 6,
     "companyTitle": "شرکت مسافربری همسفر چابکسواران",
@@ -173,6 +169,4 @@
     },
     "availableSeats": 25
   }
-]
-
 ]
