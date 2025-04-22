@@ -86,4 +86,93 @@
 ,
     "availableSeats": 29  
   }
+,
+[
+  {
+    "id": 6,
+    "companyTitle": "شرکت مسافربری همسفر چابکسواران",
+    "price": 580000,
+    "vipText": "VIP با پذیرایی شام",
+    "origin": {
+      "city": "تهران",
+      "time": "۲۱:۱۵",
+      "date": "30 فروردین"
+    },
+    "destination": {
+      "city": "اصفهان",
+      "time": "۰۳:۳۰",
+      "date": "۱۴۰۴/۰۲/۱۶"
+    },
+    "availableSeats": 12
+  },
+  {
+    "id": 7,
+    "companyTitle": "شرکت تعاونی رویال سفر ایرانیان",
+    "price": 720000,
+    "vipText": "VIP تخت‌خواب‌دار",
+    "origin": {
+      "city": "شیراز",
+      "time": "۱۷:۴۵",
+      "date": "30 فروردین"
+    },
+    "destination": {
+      "city": "کرج",
+      "time": "۰۴:۱۰",
+      "date": "۱۴۰۴/۰۲/۱۶"
+    },
+    "availableSeats": 8
+  },
+  {
+    "id": 8,
+    "companyTitle": "شرکت عدل",
+    "price": 499000,
+    "vipText": "معمولی بدون خدمات اضافه",
+    "origin": {
+      "city": "تبریز",
+      "time": "۲۲:۰۰",
+      "date": "30 فروردین"
+    },
+    "destination": {
+      "city": "مشهد",
+      "time": "۱۰:۱۵",
+      "date": "۱۴۰۴/۰۲/۱۶"
+    },
+    "availableSeats": 16
+  },
+  {
+    "id": 9,
+    "companyTitle": "شرکت سیر و سفر",
+    "price": 849000,
+    "vipText": "VIP ویژه با وای‌فای و صندلی ماساژور",
+    "origin": {
+      "city": "کرمان",
+      "time": "۲۰:۳۰",
+      "date": "30 فروردین"
+    },
+    "destination": {
+      "city": "تهران",
+      "time": "۰۶:۰۰",
+      "date": "۱۴۰۴/۰۲/۱۶"
+    },
+    "availableSeats": 3
+  },
+  {
+    "id": 10,
+    "companyTitle": "شرکت لوان نور",
+    "price": 770000,
+    "vipText": "VIP با نوشیدنی گرم و اینترنت",
+    "origin": {
+      "city": "رشت",
+      "time": "۱۸:۲۰",
+      "date": "30 فروردین"
+    },
+    "destination": {
+      "city": "یزد",
+      "time": "۰۸:۰۰",
+      "date": "۱۴۰۴/۰۲/۱۶"
+    },
+    "availableSeats": 25
+  }
+]
+
 ]
